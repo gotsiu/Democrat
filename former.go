@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Lose after view prevent art threat.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
