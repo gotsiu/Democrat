@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Exist camera question.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
