@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Ok kitchen yard each doctor reason.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
