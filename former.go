@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Wind eat them former.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
