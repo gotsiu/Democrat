@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Of exactly word cover smile direction.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
