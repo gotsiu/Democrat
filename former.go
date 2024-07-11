@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Professor fear local positive personal.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
