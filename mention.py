@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Watch red order floor.
 print("Hello, World!")
+
+# Goal scientist result.
+print("Hello, World!")
