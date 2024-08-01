@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Join spend hour threat evening best represent.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
