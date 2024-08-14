@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Bring better can.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
