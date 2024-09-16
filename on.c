@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Lay partner senior president minute.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
