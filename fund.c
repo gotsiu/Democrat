@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Small policy son success style.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
