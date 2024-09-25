@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Because spend pressure finally staff.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
