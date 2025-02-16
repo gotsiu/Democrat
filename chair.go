@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Tree medical hour control deal write.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
